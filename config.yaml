@@ -3,5 +3,5 @@ symbols:
   finish: 'F'
   wall: 'x'
   path: ' '
-shortest_path_symbol: '-'
+  shortest_path_symbol: '-'
 maze_path : 'maze_2.txt'
