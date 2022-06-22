@@ -1,0 +1,8 @@
+xxxxxxxx
+xF     x
+x x x xx
+x xxx  x
+x x    x
+x x x  x
+x   x 0x
+xxxxxxxx
